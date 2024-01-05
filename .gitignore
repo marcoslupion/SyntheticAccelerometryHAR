@@ -1,0 +1,5 @@
+*.h5
+training_evolution_metrics.csv
+output/*png
+checkpoints
+__pycache__
