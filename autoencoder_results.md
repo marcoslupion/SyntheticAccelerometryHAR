@@ -1,6 +1,6 @@
 # Autoencoder Training Results
 
-In this page, the training results of several Autoencoders are shown. The Autoencoders are defined in the file[autoencoder_models.py](autoencoder_models.py). 
+In this page, the training results of several Autoencoders are shown. The Autoencoders are defined in the file [autoencoder_models.py](autoencoder_models.py). 
 
 | Autoencoder | Validation Loss | Num. Epochs to train |
 |-------------|------------------|--------|
